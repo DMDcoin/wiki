@@ -1,5 +1,5 @@
-# ARTIS Network Wiki
+# DMD Diamond Network Wiki
 
-The public hub for the current status and technical documentation of ARTIS network blockchains.
+The public hub for the current status and technical documentation of the DMD Diamond blockchain.
 
-Please proceed to the [wiki](https://github.com/artis-eco/wiki/wiki) section for information.
+Please proceed to the [wiki](https://github.com/dmdcoin/wiki/wiki) section for information.
